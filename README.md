@@ -2,4 +2,6 @@
 
 Spotify web player components using React & Styled Components
 
-![Cover Component](/cover.png "Cover component")
+### Cover
+
+<img src="./cover.png" width="250" height="250" />
